@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **TypeScript**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, MEARN**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, MEARN**
 
 - 📫 How to reach me **devenrikame55@gmail.com**
 
