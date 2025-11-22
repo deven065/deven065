@@ -17,7 +17,7 @@
 <!-- Professional Social Badges with 3D Effect -->
 <p align="center">
   <a href="https://www.linkedin.com/in/dev55" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" style="box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/rikame_deven" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X"/>
@@ -161,16 +161,17 @@ Open to interesting projects, technical discussions, and collaboration opportuni
         <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
       </td>
       <td width="50%" align="center">
-        <h3>💼 Portfolio Projects</h3>
+        <h3>💼 More Projects</h3>
         <a href="https://github.com/deven065?tab=repositories">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=deven065&repo=deven065&theme=react&bg_color=0D1117&border_color=36BCF7&icon_color=36BCF7&title_color=36BCF7&hide_border=false" alt="Profile"/>
+          <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300" alt="Explore More Projects"/>
         </a>
         <br/><br/>
         <p align="left">
           <b>🚀 Explore:</b> More exciting projects on GitHub<br/>
           <b>🔨 Building:</b> Enterprise-grade applications<br/>
           <b>🌟 Focus:</b> Clean architecture & scalability<br/>
-          <b>📈 Growth:</b> Continuous learning & innovation
+          <b>📈 Growth:</b> Continuous learning & innovation<br/>
+          <b>💡 Innovation:</b> Exploring cutting-edge technologies
         </p>
         <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
       </td>
@@ -223,10 +224,9 @@ Open to interesting projects, technical discussions, and collaboration opportuni
 
 <br/>
 
-<!-- Code Time & Productivity Stats -->
+<!-- Additional Productivity Insights -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=deven065&layout=compact&theme=react&hide_border=false&bg_color=0d1117&border_color=36BCF7&title_color=36BCF7&text_color=c9d1d9&custom_title=Weekly%20Coding%20Activity" alt="Coding Activity" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deven065&theme=react&utcOffset=5.5" alt="Productive Time" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deven065&theme=github_dark" alt="Contribution Graph" width="100%"/>
 </div>
 
 <br/>
@@ -331,19 +331,9 @@ Open to interesting projects, technical discussions, and collaboration opportuni
   </tr>
 </table>
 
-### 🎓 Professional Development
+### 🎓 Professional Development Journey
 
-```mermaid
-graph LR
-    A[2022] --> B[Started Career]
-    B --> C[Full-Stack Training]
-    C --> D[MERN Specialization]
-    D --> E[Angular Framework]
-    E --> F[Cloud & DevOps]
-    F --> G[2024: 2+ Years Experience]
-    
-    style G fill:#36BCF7,stroke:#36BCF7,stroke-width:3px
-```
+**2022** → Started Career → Full-Stack Training → MERN Specialization → Angular Framework → Cloud & DevOps → **2024: 2+ Years Professional Experience** 🚀
 
 ### 📚 Continuous Learning Path
 
