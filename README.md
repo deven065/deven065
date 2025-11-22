@@ -17,18 +17,18 @@
 <!-- Animated Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/dev55" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" style="animation: pulse 2s infinite;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/rikame_deven" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X" style="animation: pulse 2s infinite;"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X"/>
   </a>
   <a href="https://instagram.com/deven_0612" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" style="animation: pulse 2s infinite;"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
   <a href="mailto:devenrikame55@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" style="animation: pulse 2s infinite;"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=deven065&label=Profile%20views&color=36BCF7&style=for-the-badge&animated=true" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=deven065&label=Profile%20views&color=36BCF7&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <!-- Animated Snake -->
