@@ -10,7 +10,7 @@
 ║                                                                ║
 ║  NAME: Deven Rikame                                            ║
 ║  CLASS: Full-Stack Developer | MERN Specialist               ║
-║  LEVEL: 34 | EXP: 2+ Years                                    ║
+║  LEVEL: 34 | EXP: Fresher                                    ║
 ║  STATUS: 🟢 SEEKING OPPORTUNITIES                             ║
 ║                                                                ║
 ║  MAIN QUEST: Build scalable, production-grade applications    ║
